@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Chii, a third-year student at HUFLIT with a strong interest in Backend Developer.
-- 💞️ I’m always excited to learn and collaborate on new projects.
+<!---- 👋 Hi, I’m Chii, a third-year student at HUFLIT with a strong interest in Backend Developer.
+- 💞️ I’m always excited to learn and collaborate on new projects. --->
 - 📫 Let’s connect on Facebook and LinkedIn!
 
 <!---
