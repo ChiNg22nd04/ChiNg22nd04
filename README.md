@@ -5,16 +5,6 @@
 - 💞️ I’m always excited to learn and collaborate on new projects.
 - 📫 Let’s connect on [Facebook](https://www.facebook.com/elyzabellanchi) and [LinkedIn](https://www.linkedin.com/in/lan-chi-nguy%E1%BB%85n-856251316/)!
 
-## Group 3 - Hotel Management Project
-
-This project is implemented by **Group 3** with the goal of developing an efficient hotel management system.
-
-### Main Content of the Project
-
-1. **Booking Management**: Allows users to book rooms online and manage booking information.
-2. **Customer Management**: Stores and manages customer information, making it easy to track their stay history.
-3. **Service Management**: Provides various types of services and amenities for customers.
-
 ## Technologies Used
 
 <div>
